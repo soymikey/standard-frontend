@@ -1,3 +1,5 @@
+这个是前端规范boilerPlate 可以直接使用
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
